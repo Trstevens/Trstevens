@@ -1,4 +1,4 @@
-👋 Hi, I’m Tyler Stevens
+👋 Hi, I’m Tyler
 - 👀 I’m interested in DATA
 <!---
 Trstevens/Trstevens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
